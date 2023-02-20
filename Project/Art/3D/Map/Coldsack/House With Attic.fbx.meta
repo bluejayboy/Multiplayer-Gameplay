@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: af556a74674df534887456e9f2196f41
+timeCreated: 1527739212
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House.057
+    100004: House.058
+    100006: House.059
+    100008: House.060
+    100010: House.061
+    100012: House.062
+    100014: House.063
+    100016: House.064
+    100018: House.065
+    100020: House.066
+    100022: House.067
+    100024: House.068
+    100026: House.069
+    100028: House.073
+    100030: House.075
+    100032: House.070
+    100034: House.071
+    100036: House.072
+    100038: House.074
+    100040: House.119
+    400000: //RootNode
+    400002: House.057
+    400004: House.058
+    400006: House.059
+    400008: House.060
+    400010: House.061
+    400012: House.062
+    400014: House.063
+    400016: House.064
+    400018: House.065
+    400020: House.066
+    400022: House.067
+    400024: House.068
+    400026: House.069
+    400028: House.073
+    400030: House.075
+    400032: House.070
+    400034: House.071
+    400036: House.072
+    400038: House.074
+    400040: House.119
+    2100000: Wood.003
+    2100002: Sand.004
+    2100004: Gray.003
+    2100006: Chrome.004
+    2100008: Bathroom.003
+    2100010: Sand.005
+    2300000: House.057
+    2300002: House.058
+    2300004: House.059
+    2300006: House.060
+    2300008: House.061
+    2300010: House.062
+    2300012: House.063
+    2300014: House.064
+    2300016: House.065
+    2300018: House.066
+    2300020: House.067
+    2300022: House.068
+    2300024: House.069
+    2300026: House.073
+    2300028: House.075
+    2300030: House.070
+    2300032: House.071
+    2300034: House.072
+    2300036: House.074
+    2300038: House.119
+    3300000: House.057
+    3300002: House.058
+    3300004: House.059
+    3300006: House.060
+    3300008: House.061
+    3300010: House.062
+    3300012: House.063
+    3300014: House.064
+    3300016: House.065
+    3300018: House.066
+    3300020: House.067
+    3300022: House.068
+    3300024: House.069
+    3300026: House.073
+    3300028: House.075
+    3300030: House.070
+    3300032: House.071
+    3300034: House.072
+    3300036: House.074
+    3300038: House.119
+    4300000: House.075
+    4300002: House.073
+    4300004: House.069
+    4300006: House.068
+    4300008: House.067
+    4300010: House.066
+    4300012: House.065
+    4300014: House.064
+    4300016: House.063
+    4300018: House.062
+    4300020: House.061
+    4300022: House.060
+    4300024: House.059
+    4300026: House.058
+    4300028: House.057
+    4300030: House.074
+    4300032: House.072
+    4300034: House.071
+    4300036: House.070
+    4300038: House.119
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

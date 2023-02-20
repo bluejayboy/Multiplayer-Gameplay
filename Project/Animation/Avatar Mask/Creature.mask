@@ -1,0 +1,316 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Creature
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Character
+    m_Weight: 0
+  - m_Path: Chest_shape
+    m_Weight: 0
+  - m_Path: elbow_pole_shape.R
+    m_Weight: 0
+  - m_Path: Foot_roll_shape
+    m_Weight: 0
+  - m_Path: Foot_shape
+    m_Weight: 0
+  - m_Path: Forearm_Shape.L
+    m_Weight: 0
+  - m_Path: Forearm_Shape.R
+    m_Weight: 0
+  - m_Path: forearm_viz_shape.L
+    m_Weight: 0
+  - m_Path: forearm_viz_shape.R
+    m_Weight: 0
+  - m_Path: Hand_Shape.L
+    m_Weight: 0
+  - m_Path: Hand_Shape.R
+    m_Weight: 0
+  - m_Path: Head_Shape
+    m_Weight: 0
+  - m_Path: Hips_shape
+    m_Weight: 0
+  - m_Path: main_finger_shape.L
+    m_Weight: 0
+  - m_Path: main_finger_shape.R
+    m_Weight: 0
+  - m_Path: Neck_Shape
+    m_Weight: 0
+  - m_Path: pole_shape
+    m_Weight: 0
+  - m_Path: Rig
+    m_Weight: 0
+  - m_Path: Rig/forearm_viz.L
+    m_Weight: 0
+  - m_Path: Rig/forearm_viz.L/forearm_viz.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root
+    m_Weight: 0
+  - m_Path: Rig/Root/elbow_pole.L
+    m_Weight: 0
+  - m_Path: Rig/Root/elbow_pole.L/elbow_pole.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/elbow_pole.R
+    m_Weight: 0
+  - m_Path: Rig/Root/elbow_pole.R/elbow_pole.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/Foot_roll.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/Foot_roll.L/Foot_roll.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front/foot_IK_raw.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front/foot_IK_raw.L/knee_pole.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front/foot_IK_raw.L/knee_pole.L/knee_pole.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front/foot_IK_raw.L/toe_IK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.L/roll_back/roll_front/foot_IK_raw.L/toe_IK.L/toe_IK.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/Foot_roll.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/Foot_roll.R/Foot_roll.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R/foot_IK_raw.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R/foot_IK_raw.R/knee_pole.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R/foot_IK_raw.R/knee_pole.R/knee_pole.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R/foot_IK_raw.R/toe_IK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/Foot_IK.R/roll_back.R/roll_front.R/foot_IK_raw.R/toe_IK.R/toe_IK.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hand_IK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hand_IK.L/hand_IK.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hand_IK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hand_IK.R/hand_IK.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/head_hinge
+    m_Weight: 0
+  - m_Path: Rig/Root/head_hinge/Head
+    m_Weight: 0
+  - m_Path: Rig/Root/head_hinge/Head/Head_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hips
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_FK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_FK.R/shin_FK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_FK.R/shin_FK.R/foot_FK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_FK.R/shin_FK.R/foot_FK.R/toe_FK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_FK.R/shin_FK.R/foot_FK.R/toe_FK.R/toe_FK.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_raw.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_raw.R/shin_raw.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_raw.R/shin_raw.R/foot_raw.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_raw.R/shin_raw.R/foot_raw.R/toe_raw.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/Leg_Hinge.R/thigh_raw.R/shin_raw.R/foot_raw.R/toe_raw.R/toe_raw.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.L/shin_IK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.L/shin_IK.L/shin_IK.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.R/shin_IK.R
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_IK.R/shin_IK.R/shin_IK.R_end
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_raw.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_raw.L/shin_raw.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_raw.L/shin_raw.L/foot_raw.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_raw.L/shin_raw.L/foot_raw.L/toe_raw.L
+    m_Weight: 0
+  - m_Path: Rig/Root/hips/hips_raw/thigh_raw.L/shin_raw.L/foot_raw.L/toe_raw.L/toe_raw.L_end
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L/thigh_FK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L/thigh_FK.L/shin_FK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L/thigh_FK.L/shin_FK.L/foot_FK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L/thigh_FK.L/shin_FK.L/foot_FK.L/toe_FK.L
+    m_Weight: 0
+  - m_Path: Rig/Root/Leg_Hinge.L/thigh_FK.L/shin_FK.L/foot_FK.L/toe_FK.L/toe_FK.L_end
+    m_Weight: 0
+  - m_Path: Rig/shin_vix.L
+    m_Weight: 0
+  - m_Path: Rig/shin_vix.L/shin_vix.L_end
+    m_Weight: 0
+  - m_Path: Rig/shin_vix.L.001
+    m_Weight: 0
+  - m_Path: Rig/shin_vix.L.001/shin_vix.L.001_end
+    m_Weight: 0
+  - m_Path: Rig/Spine_hinge
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/Neck
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/Neck/neck_raw
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/Neck/neck_raw/head_raw
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/Neck/neck_raw/head_raw/head_raw_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_FK.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_FK.L/forearm_raw_FK.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_FK.L/forearm_raw_FK.L/hand_FK.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_FK.L/forearm_raw_FK.L/hand_FK.L/hand_FK.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_IK.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_IK.L/forearm_IK.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_IK.L/forearm_IK.L/forearm_IK.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_index.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_index.L/f_index.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_index.L/f_index.L/f_index.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_middle.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_middle.L/f_middle.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_middle.L/f_middle.L/f_middle.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_ring.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_ring.L/f_ring.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_ring.L/f_ring.L/f_ring.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_thumb.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_thumb.L/f_thumb.L
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.L/upper_arm_raw.L/forearm_raw.L/hand_raw.L/b_thumb.L/f_thumb.L/f_thumb.L_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_FK.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_FK.R/forearm_FK.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_FK.R/forearm_FK.R/hand_FK.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_FK.R/forearm_FK.R/hand_FK.R/hand_FK.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_IK.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_IK.R/forearm_IK.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_IK.R/forearm_IK.R/forearm_IK.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_index.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_index.R/f_index.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_index.R/f_index.R/f_index.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_middle.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_middle.R/f_middle.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_middle.R/f_middle.R/f_middle.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_ring.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_ring.R/f_ring.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_ring.R/f_ring.R/f_ring.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_thumb.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_thumb.R/f_thumb.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_raw.R/hand_raw.R/b_thumb.R/f_thumb.R/f_thumb.R_end
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_viz.R
+    m_Weight: 1
+  - m_Path: Rig/Spine_hinge/spine/chest/shoulder.R/upper_arm_raw.R/forearm_viz.R/forearm_viz.R_end
+    m_Weight: 1
+  - m_Path: Root_Shape
+    m_Weight: 0
+  - m_Path: shin_shape
+    m_Weight: 0
+  - m_Path: shoulder_shape.L
+    m_Weight: 0
+  - m_Path: shoulder_shape.R
+    m_Weight: 0
+  - m_Path: Spine_shape
+    m_Weight: 0
+  - m_Path: thigh_shape
+    m_Weight: 0
+  - m_Path: Thumb_shape.L
+    m_Weight: 0
+  - m_Path: Thumb_shape.R
+    m_Weight: 0
+  - m_Path: toe_shape
+    m_Weight: 0
+  - m_Path: upper_arm_shape.L
+    m_Weight: 0
+  - m_Path: upper_arm_shape.R
+    m_Weight: 0

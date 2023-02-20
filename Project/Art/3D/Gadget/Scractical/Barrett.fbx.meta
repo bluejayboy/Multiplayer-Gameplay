@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: b3aa5021b39b2c043aa9c2a3e9892994
+timeCreated: 1556548383
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ArmsArmature
+    100002: Barett
+    100004: Barett.001
+    100006: //RootNode
+    100008: Hands
+    100010: LeftBicep
+    100012: LeftForearm
+    100014: LeftForearm_end
+    100016: LeftHand
+    100018: LeftMiddle
+    100020: LeftMiddle.001
+    100022: LeftMiddle.001_end
+    100024: LeftPinky
+    100026: LeftPinky.001
+    100028: LeftPinky.001_end
+    100030: LeftPointer
+    100032: LeftPointer.001
+    100034: LeftPointer.001_end
+    100036: LeftThumb
+    100038: LeftThumb.001
+    100040: LeftThumb.001_end
+    100042: LeftWristHandle
+    100044: Mag
+    100046: RightBicep
+    100048: RightForearm
+    100050: RightForearm_end
+    100052: RightHand
+    100054: RightMiddle
+    100056: RightMiddle.001
+    100058: RightMiddle.001_end
+    100060: RightPinky
+    100062: RightPinky.001
+    100064: RightPinky.001_end
+    100066: RightPointer
+    100068: RightPointer.001
+    100070: RightPointer.001_end
+    100072: RightThumb
+    100074: RightThumb.001
+    100076: RightThumb.001_end
+    100078: RightWristHandle
+    400000: ArmsArmature
+    400002: Barett
+    400004: Barett.001
+    400006: //RootNode
+    400008: Hands
+    400010: LeftBicep
+    400012: LeftForearm
+    400014: LeftForearm_end
+    400016: LeftHand
+    400018: LeftMiddle
+    400020: LeftMiddle.001
+    400022: LeftMiddle.001_end
+    400024: LeftPinky
+    400026: LeftPinky.001
+    400028: LeftPinky.001_end
+    400030: LeftPointer
+    400032: LeftPointer.001
+    400034: LeftPointer.001_end
+    400036: LeftThumb
+    400038: LeftThumb.001
+    400040: LeftThumb.001_end
+    400042: LeftWristHandle
+    400044: Mag
+    400046: RightBicep
+    400048: RightForearm
+    400050: RightForearm_end
+    400052: RightHand
+    400054: RightMiddle
+    400056: RightMiddle.001
+    400058: RightMiddle.001_end
+    400060: RightPinky
+    400062: RightPinky.001
+    400064: RightPinky.001_end
+    400066: RightPointer
+    400068: RightPointer.001
+    400070: RightPointer.001_end
+    400072: RightThumb
+    400074: RightThumb.001
+    400076: RightThumb.001_end
+    400078: RightWristHandle
+    2300000: Barett
+    2300002: Barett.001
+    2300004: Mag
+    3300000: Barett
+    3300002: Barett.001
+    3300004: Mag
+    4300000: Barett.001
+    4300002: Mag
+    4300004: Hands
+    4300006: Barett
+    7400000: Barett.001|BarettAction
+    7400002: Barett.001|HandsAction
+    7400004: Mag|BarettAction
+    7400006: Mag|HandsAction
+    7400008: ArmsArmature|ArmsArmatureAction
+    7400010: ArmsArmature|BarettAction
+    7400012: ArmsArmature|HandsAction
+    7400014: Barett|BarettAction
+    7400016: Barett|HandsAction
+    9500000: //RootNode
+    13700000: Hands
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

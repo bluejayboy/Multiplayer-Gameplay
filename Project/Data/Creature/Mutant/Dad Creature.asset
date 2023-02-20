@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70cb7a722fdc7594bbfeea9338494227, type: 3}
+  m_Name: Dad Creature
+  m_EditorClassIdentifier: 
+  scale: {x: 1, y: 1, z: 1}
+  abilities: []
+  health: 200
+  lifetime: 20
+  allowInteract: 0
+  stand:
+    moveSpeed: 9
+    footstepRate: 25
+  crouch:
+    moveSpeed: 4.5
+    footstepRate: 35
+  defaultGadget: Mutant Belt
+  footsteps:
+  - {fileID: 8300000, guid: 46e98842d957eed4f8b56a379e2d3808, type: 3}
+  - {fileID: 8300000, guid: 0a0311b51aa26cf42b59e347390f562f, type: 3}
+  - {fileID: 8300000, guid: 8abe2d282a7e055479948030a75fda7a, type: 3}
+  - {fileID: 8300000, guid: 869e208ddda88334d8b6e187612662e7, type: 3}
+  - {fileID: 8300000, guid: 6259f35920c6f604abcbfd08f354d17b, type: 3}
+  - {fileID: 8300000, guid: d62f48ee9fe571f4ea0d920c8562cf82, type: 3}
+  - {fileID: 8300000, guid: 86de29f075e572b46bf574817e5f66d8, type: 3}
+  - {fileID: 8300000, guid: d5d019b6f9a12694988408f7e5686f1c, type: 3}
+  grunts:
+  - {fileID: 8300000, guid: c245aaad80605bd44a59bda858d76821, type: 3}
+  - {fileID: 8300000, guid: f7380e0fa4229304cab1a6c03388de2d, type: 3}
+  - {fileID: 8300000, guid: b99a26d75ca4c9b428108cad2cc35ed3, type: 3}
+  screams:
+  - {fileID: 8300000, guid: a1d0c4bb30ad5354bb9a5cd426d8dfa1, type: 3}
+  - {fileID: 8300000, guid: 6736a8e719b98ed44a7e8b0eba5a9b02, type: 3}
+  gruntChance: 0.5
+  screamChance: 1
+  hats:
+  - {fileID: 1662405062499758, guid: f31928a95e4d8d04abc215e3ca16edee, type: 2}
+  - {fileID: 1242665720480160, guid: 2b0258f45ecc8dd4e9dae40819a5ad21, type: 2}
+  scarves: []
+  vests: []
+  face: 
+  isFixedSkinColor: 1
+  head:
+    serializedVersion: 2
+    rgba: 4285972875
+  torso:
+    serializedVersion: 2
+    rgba: 4294428300
+  leftHand:
+    serializedVersion: 2
+    rgba: 4285972875
+  rightHand:
+    serializedVersion: 2
+    rgba: 4285972875
+  leftFoot:
+    serializedVersion: 2
+    rgba: 4285169556
+  rightFoot:
+    serializedVersion: 2
+    rgba: 4285169556

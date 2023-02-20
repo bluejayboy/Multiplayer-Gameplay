@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d3eed68dd9bec40b1962a023a0dae6, type: 3}
+  m_Name: Human Weapon Shop
+  m_EditorClassIdentifier: 
+  gameItems:
+  - {fileID: 11400000, guid: 14f277c72c908cb40aae7d7f07759c8f, type: 2}
+  - {fileID: 11400000, guid: 6bd7b5de3db7afd45b8dec6ec1176132, type: 2}
+  - {fileID: 11400000, guid: df8ed3164eb4a8f47bcdbc7c077630b5, type: 2}
+  - {fileID: 11400000, guid: 87c42786868115f4bb49ae8377b717af, type: 2}
+  - {fileID: 11400000, guid: 3a1d353f2e083554ea48bd2a67913a9a, type: 2}
+  - {fileID: 11400000, guid: 524b28b12c047104cb1121517427d005, type: 2}
+  - {fileID: 11400000, guid: de13722e3506d974d9481aac8a40e022, type: 2}
+  - {fileID: 11400000, guid: 48129f4521a60b74ebe747b92f8a6dd5, type: 2}
+  - {fileID: 11400000, guid: 7c6028ce696325e45b66d77fbf51b67c, type: 2}
+  - {fileID: 11400000, guid: 866819990f944ef4787763d5f67196e8, type: 2}
+  - {fileID: 11400000, guid: 8552e0c61e2105c438245206124e3f41, type: 2}
+  - {fileID: 11400000, guid: 92e696d6dd7ca6746a70b125aa9fbdad, type: 2}
+  - {fileID: 11400000, guid: 30d165377739f0c45877534981fd4a39, type: 2}
+  - {fileID: 11400000, guid: 5014b0a79f5a16443b47c0b35f193f3c, type: 2}

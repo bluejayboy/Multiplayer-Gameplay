@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 529831a77d9de684e902273ada6aa906
+timeCreated: 1540479030
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barn
+    100004: Barrel
+    100006: Base
+    100008: Cactus
+    100010: Fence Block
+    100012: Fence Stand
+    100014: Stairs
+    100016: Tall Building
+    100018: Train
+    100020: Wagon
+    100022: Water Tower
+    100024: Wide Building
+    100026: Hay Stack
+    100028: Cube
+    100030: Wood
+    100032: Train Wheel
+    100034: Wagon.002
+    100036: Wagon Wheel
+    400000: //RootNode
+    400002: Barn
+    400004: Barrel
+    400006: Base
+    400008: Cactus
+    400010: Fence Block
+    400012: Fence Stand
+    400014: Stairs
+    400016: Tall Building
+    400018: Train
+    400020: Wagon
+    400022: Water Tower
+    400024: Wide Building
+    400026: Hay Stack
+    400028: Cube
+    400030: Wood
+    400032: Train Wheel
+    400034: Wagon.002
+    400036: Wagon Wheel
+    2300000: Barn
+    2300002: Barrel
+    2300004: Base
+    2300006: Cactus
+    2300008: Fence Block
+    2300010: Fence Stand
+    2300012: Stairs
+    2300014: Tall Building
+    2300016: Train
+    2300018: Wagon
+    2300020: Water Tower
+    2300022: Wide Building
+    2300024: Hay Stack
+    2300026: Cube
+    2300028: Wood
+    2300030: Train Wheel
+    2300032: Wagon.002
+    2300034: Wagon Wheel
+    3300000: Barn
+    3300002: Barrel
+    3300004: Base
+    3300006: Cactus
+    3300008: Fence Block
+    3300010: Fence Stand
+    3300012: Stairs
+    3300014: Tall Building
+    3300016: Train
+    3300018: Wagon
+    3300020: Water Tower
+    3300022: Wide Building
+    3300024: Hay Stack
+    3300026: Cube
+    3300028: Wood
+    3300030: Train Wheel
+    3300032: Wagon.002
+    3300034: Wagon Wheel
+    4300000: Cactus
+    4300002: Fence Block
+    4300004: Stairs
+    4300006: Fence Stand
+    4300008: Barn
+    4300010: Barrel
+    4300012: Train
+    4300014: Water Tower
+    4300016: Base
+    4300018: Wide Building
+    4300020: Tall Building
+    4300022: Wagon
+    4300024: Hay Stack
+    4300026: Cube
+    4300028: Wood
+    4300030: Wagon.002
+    4300032: Train Wheel
+    4300034: Wagon Wheel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

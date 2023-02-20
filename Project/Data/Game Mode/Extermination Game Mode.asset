@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cbb24d3eb0f0334a8424f55d82108e3, type: 3}
+  m_Name: Extermination Game Mode
+  m_EditorClassIdentifier: 
+  minimumPlayerCount: 2
+  debugIntermissionTime: 1
+  intermissionTime: 15
+  hasPreRound: 1
+  preStartTime: 30
+  hasTimeLimit: 1
+  roundTime: 210
+  preEndTime: 5
+  spectateDelayTime: 3
+  winScore: 3
+  loseScore: 0
+  winBread: 0
+  loseBread: 0
+  allowBread: 0
+  allowSuicide: 1
+  allowTeamKill: 0
+  allowTeamCollision: 0
+  allowFootprint: 0
+  allowGadgetDrop: 1
+  showTeamIdentity: 1
+  hideSpectateMessage: 1
+  globalVoiceChat: 1

@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 16307690b79918749bf955ad471db558
+timeCreated: 1540480382
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barn
+    100004: Base
+    100006: Dead Tree
+    100008: Hay Roll
+    100010: Shed
+    100012: Tractor
+    100014: Windmill
+    100016: Door
+    100018: Fence Block
+    100020: Fence Stand
+    100022: Cylinder
+    100024: Rotor
+    100026: Ladder
+    400000: //RootNode
+    400002: Barn
+    400004: Base
+    400006: Dead Tree
+    400008: Hay Roll
+    400010: Shed
+    400012: Tractor
+    400014: Windmill
+    400016: Door
+    400018: Fence Block
+    400020: Fence Stand
+    400022: Cylinder
+    400024: Rotor
+    400026: Ladder
+    2300000: Barn
+    2300002: Base
+    2300004: Dead Tree
+    2300006: Hay Roll
+    2300008: Shed
+    2300010: Tractor
+    2300012: Windmill
+    2300014: Door
+    2300016: Fence Block
+    2300018: Fence Stand
+    2300020: Cylinder
+    2300022: Rotor
+    2300024: Ladder
+    3300000: Barn
+    3300002: Base
+    3300004: Dead Tree
+    3300006: Hay Roll
+    3300008: Shed
+    3300010: Tractor
+    3300012: Windmill
+    3300014: Door
+    3300016: Fence Block
+    3300018: Fence Stand
+    3300020: Cylinder
+    3300022: Rotor
+    3300024: Ladder
+    4300000: Tractor
+    4300002: Dead Tree
+    4300004: Base
+    4300006: Hay Roll
+    4300008: Shed
+    4300010: Windmill
+    4300012: Barn
+    4300014: Door
+    4300016: Fence Stand
+    4300018: Fence Block
+    4300020: Cylinder
+    4300022: Rotor
+    4300024: Ladder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

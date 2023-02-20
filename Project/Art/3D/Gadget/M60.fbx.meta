@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: dbcb8df71c952da48bdeaac0ad17fbd9
+timeCreated: 1545191979
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ArmsArmature
+    100002: Cube.001
+    100004: Hands
+    100006: LeftBicep
+    100008: LeftForearm
+    100010: LeftForearm_end
+    100012: LeftHand
+    100014: LeftMiddle
+    100016: LeftMiddle.001
+    100018: LeftMiddle.001_end
+    100020: LeftPinky
+    100022: LeftPinky.001
+    100024: LeftPinky.001_end
+    100026: LeftPointer
+    100028: LeftPointer.001
+    100030: LeftPointer.001_end
+    100032: LeftThumb
+    100034: LeftThumb.001
+    100036: LeftThumb.001_end
+    100038: LeftWristHandle
+    100040: //RootNode
+    100042: RightBicep
+    100044: RightForearm
+    100046: RightForearm_end
+    100048: RightHand
+    100050: RightMiddle
+    100052: RightMiddle.001
+    100054: RightMiddle.001_end
+    100056: RightPinky
+    100058: RightPinky.001
+    100060: RightPinky.001_end
+    100062: RightPointer
+    100064: RightPointer.001
+    100066: RightPointer.001_end
+    100068: RightThumb
+    100070: RightThumb.001
+    100072: RightThumb.001_end
+    100074: RightWristHandle
+    100076: Gun
+    100078: Mag
+    100080: Gun.001
+    400000: ArmsArmature
+    400002: Cube.001
+    400004: Hands
+    400006: LeftBicep
+    400008: LeftForearm
+    400010: LeftForearm_end
+    400012: LeftHand
+    400014: LeftMiddle
+    400016: LeftMiddle.001
+    400018: LeftMiddle.001_end
+    400020: LeftPinky
+    400022: LeftPinky.001
+    400024: LeftPinky.001_end
+    400026: LeftPointer
+    400028: LeftPointer.001
+    400030: LeftPointer.001_end
+    400032: LeftThumb
+    400034: LeftThumb.001
+    400036: LeftThumb.001_end
+    400038: LeftWristHandle
+    400040: //RootNode
+    400042: RightBicep
+    400044: RightForearm
+    400046: RightForearm_end
+    400048: RightHand
+    400050: RightMiddle
+    400052: RightMiddle.001
+    400054: RightMiddle.001_end
+    400056: RightPinky
+    400058: RightPinky.001
+    400060: RightPinky.001_end
+    400062: RightPointer
+    400064: RightPointer.001
+    400066: RightPointer.001_end
+    400068: RightThumb
+    400070: RightThumb.001
+    400072: RightThumb.001_end
+    400074: RightWristHandle
+    400076: Gun
+    400078: Mag
+    400080: Gun.001
+    2300000: Cube.001
+    2300002: Gun
+    2300004: Mag
+    2300006: Gun.001
+    3300000: Cube.001
+    3300002: Gun
+    3300004: Mag
+    3300006: Gun.001
+    4300000: Hands
+    4300002: Cube.001
+    4300004: Gun
+    4300006: Mag
+    4300008: Gun.001
+    7400000: ArmsArmature|ArmsArmatureAction
+    7400002: ArmsArmature|Cube.001Action
+    7400004: ArmsArmature|Cube.006Action
+    7400006: ArmsArmature|HandsAction
+    7400008: Cube.001|Cube.001Action
+    7400010: Cube.001|Cube.006Action
+    7400012: Cube.001|HandsAction
+    9500000: //RootNode
+    13700000: Hands
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

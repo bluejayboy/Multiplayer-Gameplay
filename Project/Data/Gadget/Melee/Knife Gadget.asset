@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694adad5995750b429a9bf791995d11c, type: 3}
+  m_Name: Knife Gadget
+  m_EditorClassIdentifier: 
+  MoveSpeedMultiplier: 1.4
+  id: Knife
+  display: Knife
+  visibleLeftHand: 1
+  enableCrosshair: 1
+  slot: 1
+  drawTime: 1
+  pickup: {fileID: -1623085222846940423, guid: 2c2645a85b8f7c74e84f9a9496b8b3b2, type: 3}
+  isFullAuto: 0
+  secondaryFire: 1
+  deploy: {fileID: 8300000, guid: 53d7d2855108a5d4d9e7f97f71b446e1, type: 3}
+  primaryFire: {fileID: 8300000, guid: 648a49a9e4ddd2d4fa24cae77adafc27, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 0}
+  secondaryFireSound: {fileID: 8300000, guid: f4243fd81f924bc4db6b81e4a3338c64, type: 3}
+  damage: 60
+  primaryFireRate: 30
+  secondaryFireRate: 50
+  impactRadius: 1
+  impactForce: 10
+  idlePose:
+    position: {x: 0.05, y: -0.4, z: 0}
+    rotation: {x: 0, y: -10, z: -10}
+    fovDivisor: 1
+  poseSpeed: 10
+  impactDelay: 0.2

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3d767c4f13b26d4d9ae4173492c3084, type: 3}
+  m_Name: Plank Hammer Gadget
+  m_EditorClassIdentifier: 
+  id: Plank Hammer
+  display: hammer
+  visibleLeftHand: 1
+  enableCrosshair: 1
+  slot: 1
+  drawTime: 0.5
+  pickup: {fileID: -4267256591629793367, guid: 9f5059374166134459d1712dd40a57bf, type: 3}
+  isFullAuto: 0
+  secondaryFire: 0
+  deploy: {fileID: 8300000, guid: 367dc171fb6138246b26a1e0b6a6821d, type: 3}
+  primaryFire: {fileID: 8300000, guid: fd266e0cb93d4f94ab074ad338e42a3f, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 8300000, guid: 76c1d3dc4579bdd4d99210e19e6702c5, type: 3}
+  secondaryFireSound: {fileID: 0}
+  damage: 40
+  primaryFireRate: 60
+  secondaryFireRate: 50
+  impactRadius: 1
+  impactForce: 10
+  idlePose:
+    position: {x: 0.05, y: -0.4, z: 0}
+    rotation: {x: 0, y: -10, z: -10}
+    fovDivisor: 1
+  poseSpeed: 10
+  hasInfiniteAmmo: 0
+  dryFire: {fileID: 0}
+  magUnload: {fileID: 0}
+  fragments: 1
+  range: 5
+  spread: 0.1
+  aimSpread: 0
+  spreadAddend: 0.01
+  spreadSubtrahend: 0.001
+  aimSensitivityDivisor: 2
+  slapDamage: 50
+  preSlapDelay: 0.2
+  postSlapDelay: 0.1
+  preSlap:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    speed: 0
+  postSlap:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    speed: 0
+  maxAmmo: 5
+  mag: {fileID: 0}
+  magForce: 200
+  aimPose:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    fovDivisor: 0
+  recoilPitch: 0.5
+  recoilYaw: 1
+  reboundPitch: 0.5
+  reboundYaw: 1
+  reboundRoll: 0.5
+  reboundDepth: 0.5
+  kickSpeed: 100
+  idleKick:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+  bulletTracer: {fileID: 0}
+  bulletShell: {fileID: 0}
+  bulletShellTorque: 30
+  preview: {fileID: 4279057455494792, guid: 0d5afdcb22688944f82b3b1d4b45d937, type: 3}
+  plank: {fileID: 6038951010786627422, guid: b65b0b5f7aa79a7479201457ca7ce109, type: 3}
+  width: 0.1
+  height: 0.4
+  minimumLength: 0.5
+  maximumLength: 5
+  holdPose:
+    position: {x: 0.05, y: -0.3, z: 0}
+    rotation: {x: -30, y: -10, z: -10}
+    fovDivisor: 1
+  upPose:
+    position: {x: 0.1, y: -0.4, z: 0}
+    rotation: {x: 30, y: -30, z: 10}
+    fovDivisor: 1
+  validColor:
+    serializedVersion: 2
+    rgba: 4284022591
+  invalidColor:
+    serializedVersion: 2
+    rgba: 4281348351
+  aliveColor:
+    serializedVersion: 2
+    rgba: 4282668133
+  deadColor:
+    serializedVersion: 2
+    rgba: 4286151033

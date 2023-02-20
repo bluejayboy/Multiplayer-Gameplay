@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820dd049780cf64f8d2332b4488063e, type: 3}
+  m_Name: K2 Gadget
+  m_EditorClassIdentifier: 
+  MoveSpeedMultiplier: 1
+  id: K2
+  display: korean gun
+  visibleLeftHand: 0
+  enableCrosshair: 1
+  slot: 0
+  drawTime: 0.5
+  pickup: {fileID: -7181859151894520934, guid: a60617383e6c17c478782659fa8bb0da, type: 3}
+  isFullAuto: 1
+  secondaryFire: 1
+  deploy: {fileID: 8300000, guid: 08e171fed7072a34bb62c78a0f88ebf9, type: 3}
+  primaryFire: {fileID: 8300000, guid: 805e0acfd0d14b64ab0ade4e32db802f, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 0}
+  secondaryFireSound: {fileID: 8300000, guid: e96410e0e11175143b1e47fd99901c21, type: 3}
+  damage: 30
+  primaryFireRate: 8
+  secondaryFireRate: 50
+  impactRadius: 1
+  impactForce: 7
+  idlePose:
+    position: {x: 0.15, y: -0.25, z: 0.1}
+    rotation: {x: -1, y: 0, z: 0}
+    fovDivisor: 1
+  poseSpeed: 10
+  hasInfiniteAmmo: 0
+  dryFire: {fileID: 8300000, guid: 51d148b6dc735c04db7b1b59c3ee13e6, type: 3}
+  magUnload: {fileID: 8300000, guid: 191cc46bb0a6b034cafc46dca18387fc, type: 3}
+  fragments: 1
+  range: 500
+  spread: 0.05
+  aimSpread: 0
+  spreadAddend: 0.01
+  spreadSubtrahend: 0.01
+  aimSensitivityDivisor: 0
+  slapDamage: 90
+  preSlapDelay: 0.3
+  postSlapDelay: 0.15
+  preSlap:
+    position: {x: 0.1, y: -0.2, z: -0.5}
+    rotation: {x: 20, y: 0, z: 0}
+    speed: 5
+  postSlap:
+    position: {x: -0.2, y: 0, z: 1.4}
+    rotation: {x: -155, y: -20, z: -20}
+    speed: 10
+  maxAmmo: 45
+  mag: {fileID: 54588627261473680, guid: e8c3272ed38acce46a7587eea71936be, type: 3}
+  magForce: 200
+  aimPose:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    fovDivisor: 1
+  recoilPitch: 0.75
+  recoilYaw: 1.25
+  reboundPitch: 0.75
+  reboundYaw: 1.25
+  reboundRoll: 2
+  reboundDepth: 0.3
+  kickSpeed: 100
+  idleKick:
+    position: {x: 0.15, y: -0.25, z: -0.2}
+    rotation: {x: -2, y: 0, z: 0}
+  bulletTracer: {fileID: 1261453264743452, guid: 478827666c31e7e4099f4749c685bf46,
+    type: 3}
+  bulletShell: {fileID: 54708876337023376, guid: 15bb2827560188c42b62e672e93f32ec,
+    type: 3}
+  bulletShellTorque: 100

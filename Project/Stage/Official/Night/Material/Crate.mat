@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_Name: Crate
+  m_Shader: {fileID: 4800000, guid: 13a8a88615aa52349a8f7e59721c8e9c, type: 3}
+  m_ShaderKeywords: FL_AMBIENT_LIGHT FL_COLORS_WORLD FL_MAIN_TEXTURE FL_SYMETRIC_COLORS_ON FL_VERTEX_COLOR V_WIRE_DYNAMIC_MASK_BOX V_WIRE_FRESNEL_ON V_WIRE_TRANSPARENCY_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CustomLightmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e5695068b06bab34c8b125c04184136e, type: 3}
+        m_Scale: {x: 0.8, y: 0.8}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _CelDivisions: 4
+    - _CelThreshold: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _GradientBlending: 0
+    - _GradientOffset: 0
+    - _GradientOriginOffsetNegativeX: 3
+    - _GradientOriginOffsetNegativeY: 3
+    - _GradientOriginOffsetNegativeZ: 3
+    - _GradientOriginOffsetPositiveX: 3
+    - _GradientOriginOffsetPositiveY: 3
+    - _GradientOriginOffsetPositiveZ: 3
+    - _GradientWidth: 3
+    - _GradientWidthNegativeX: 0
+    - _GradientWidthNegativeY: 0
+    - _GradientWidthNegativeZ: 0
+    - _GradientWidthPositiveX: 0
+    - _GradientWidthPositiveY: 0
+    - _GradientWidthPositiveZ: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ShadowBoost: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVChannel: 0
+    - _UVSec: 0
+    - _V_WIRE_DistanceFade: 1
+    - _V_WIRE_DistanceFadeEnd: 10
+    - _V_WIRE_DistanceFadeStart: 5
+    - _V_WIRE_DynamicGI: 0
+    - _V_WIRE_DynamicGIEnumID: 0
+    - _V_WIRE_DynamicGIStrength: 0
+    - _V_WIRE_DynamicMaskEffectsBaseTexEnumID: 0
+    - _V_WIRE_DynamicMaskEffectsBaseTexInvert: 0
+    - _V_WIRE_DynamicMaskEnumID: 3
+    - _V_WIRE_DynamicMaskInvert: 1
+    - _V_WIRE_DynamicMaskSmooth: 1
+    - _V_WIRE_DynamicMaskType: 1
+    - _V_WIRE_EmissionStrength: 222
+    - _V_WIRE_FixedSize: 0
+    - _V_WIRE_FresnelBias: -0.094
+    - _V_WIRE_FresnelEnumID: 1
+    - _V_WIRE_FresnelInvert: 0
+    - _V_WIRE_FresnelPow: 1
+    - _V_WIRE_IncludeLightEnumID: 0
+    - _V_WIRE_Size: 1
+    - _V_WIRE_Source_Options: 0
+    - _V_WIRE_Tag: 0
+    - _V_WIRE_Title_M_Options: 0
+    - _V_WIRE_Title_S_Options: 0
+    - _V_WIRE_Title_W_Options: 0
+    - _V_WIRE_TransparencyEnumID: 1
+    - _V_WIRE_Transparency_M_Options: 0
+    - _V_WIRE_TransparentTex_Alpha_Offset: -0.542
+    - _V_WIRE_TransparentTex_Invert: 1
+    - _V_WIRE_WireTex_UVSet: 0
+    - _V_WIRE_WireVertexColor: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Ambient_Light: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.5294118, g: 0.46412125, b: 0.3814879, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GradienColorGoal: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientUnitAxis: {r: 0, g: 1, b: 0, a: 0}
+    - _LightNegative2X: {r: 1, g: 1, b: 1, a: 1}
+    - _LightNegative2Y: {r: 1, g: 1, b: 1, a: 1}
+    - _LightNegative2Z: {r: 1, g: 1, b: 1, a: 1}
+    - _LightNegativeX: {r: 1, g: 1, b: 1, a: 1}
+    - _LightNegativeY: {r: 1, g: 1, b: 1, a: 1}
+    - _LightNegativeZ: {r: 1, g: 1, b: 1, a: 1}
+    - _LightPositive2X: {r: 1, g: 1, b: 1, a: 1}
+    - _LightPositive2Y: {r: 1, g: 1, b: 1, a: 1}
+    - _LightPositive2Z: {r: 1, g: 1, b: 1, a: 1}
+    - _LightPositiveX: {r: 0.60294116, g: 0.5201851, b: 0.41673875, a: 1}
+    - _LightPositiveY: {r: 0.6911765, g: 0.6033935, b: 0.49805364, a: 1}
+    - _LightPositiveZ: {r: 0.63235295, g: 0.53632337, b: 0.41846886, a: 1}
+    - _ShadowTint: {r: 1, g: 1, b: 1, a: 1}
+    - _V_WIRE_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _V_WIRE_ObjectWorldPos: {r: 0, g: 0, b: 0, a: 0}
+    - _V_WIRE_SourceTex_Scroll: {r: 0, g: 0, b: 0, a: 0}
+    - _V_WIRE_WireTex_Scroll: {r: 0, g: 0, b: 0, a: 0}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d3eed68dd9bec40b1962a023a0dae6, type: 3}
+  m_Name: Human Tool 1 Shop
+  m_EditorClassIdentifier: 
+  gameItems:
+  - {fileID: 11400000, guid: 072c500f3f72e1844a538e2fd5f6ba8f, type: 2}
+  - {fileID: 11400000, guid: ec56734601e98ef45b89327172773a2a, type: 2}
+  - {fileID: 11400000, guid: 1266653139784994781d76daf2d2bff0, type: 2}
+  - {fileID: 11400000, guid: 4ab6649b6431045449b35412d9deaa9e, type: 2}
+  - {fileID: 11400000, guid: 8e4021953c6d8f64a97e156badd9be96, type: 2}

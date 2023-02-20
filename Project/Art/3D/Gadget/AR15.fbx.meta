@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 99714ac21197c5e49bcde2619d9e5a9c
+timeCreated: 1525311151
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmsArmature
+    100004: Hands
+    100006: Knife
+    100008: LeftBicep
+    100010: LeftForearm
+    100012: LeftForearm_end
+    100014: LeftHand
+    100016: LeftMiddle
+    100018: LeftMiddle.001
+    100020: LeftMiddle.001_end
+    100022: LeftPinky
+    100024: LeftPinky.001
+    100026: LeftPinky.001_end
+    100028: LeftPointer
+    100030: LeftPointer.001
+    100032: LeftPointer.001_end
+    100034: LeftThumb
+    100036: LeftThumb.001
+    100038: LeftThumb.001_end
+    100040: LeftWristHandle
+    100042: M4
+    100044: M4.005
+    100046: RightBicep
+    100048: RightForearm
+    100050: RightForearm_end
+    100052: RightHand
+    100054: RightMiddle
+    100056: RightMiddle.001
+    100058: RightMiddle.001_end
+    100060: RightPinky
+    100062: RightPinky.001
+    100064: RightPinky.001_end
+    100066: RightPointer
+    100068: RightPointer.001
+    100070: RightPointer.001_end
+    100072: RightThumb
+    100074: RightThumb.001
+    100076: RightThumb.001_end
+    100078: RightWristHandle
+    100080: Gun
+    100082: Mag
+    400000: //RootNode
+    400002: ArmsArmature
+    400004: Hands
+    400006: Knife
+    400008: LeftBicep
+    400010: LeftForearm
+    400012: LeftForearm_end
+    400014: LeftHand
+    400016: LeftMiddle
+    400018: LeftMiddle.001
+    400020: LeftMiddle.001_end
+    400022: LeftPinky
+    400024: LeftPinky.001
+    400026: LeftPinky.001_end
+    400028: LeftPointer
+    400030: LeftPointer.001
+    400032: LeftPointer.001_end
+    400034: LeftThumb
+    400036: LeftThumb.001
+    400038: LeftThumb.001_end
+    400040: LeftWristHandle
+    400042: M4
+    400044: M4.005
+    400046: RightBicep
+    400048: RightForearm
+    400050: RightForearm_end
+    400052: RightHand
+    400054: RightMiddle
+    400056: RightMiddle.001
+    400058: RightMiddle.001_end
+    400060: RightPinky
+    400062: RightPinky.001
+    400064: RightPinky.001_end
+    400066: RightPointer
+    400068: RightPointer.001
+    400070: RightPointer.001_end
+    400072: RightThumb
+    400074: RightThumb.001
+    400076: RightThumb.001_end
+    400078: RightWristHandle
+    400080: Gun
+    400082: Mag
+    2100000: Right Hand
+    2100002: Left Hand
+    2100004: Material.002
+    2100006: Material
+    2100008: Material.003
+    2100010: Material.006
+    2100012: Material.001
+    2100014: Material.004
+    2100016: Material.005
+    2300000: Knife
+    2300002: M4
+    2300004: M4.005
+    2300006: Gun
+    2300008: Mag
+    3300000: Knife
+    3300002: M4
+    3300004: M4.005
+    3300006: Gun
+    3300008: Mag
+    4300000: Hands
+    4300002: M4
+    4300004: M4.005
+    4300006: Knife
+    4300008: Gun
+    4300010: Mag
+    7400000: ArmsArmature|ArmsArmatureAction
+    7400002: ArmsArmature|HandsAction
+    7400004: ArmsArmature|KnifeAction
+    7400006: ArmsArmature|M4.005Action
+    7400008: ArmsArmature|M4Action
+    7400010: M4|HandsAction
+    7400012: M4|KnifeAction
+    7400014: M4|M4.005Action
+    7400016: M4|M4Action
+    7400018: M4.005|HandsAction
+    7400020: M4.005|KnifeAction
+    7400022: M4.005|M4.005Action
+    7400024: M4.005|M4Action
+    7400026: Knife|HandsAction
+    7400028: Knife|KnifeAction
+    7400030: Knife|M4.005Action
+    7400032: Knife|M4Action
+    9500000: //RootNode
+    13700000: Hands
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

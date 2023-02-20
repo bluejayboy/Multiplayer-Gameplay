@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d3eed68dd9bec40b1962a023a0dae6, type: 3}
+  m_Name: Mutant Creature Shop
+  m_EditorClassIdentifier: 
+  gameItems:
+  - {fileID: 11400000, guid: e07a0e4829996a84fbae5f0a12577466, type: 2}
+  - {fileID: 11400000, guid: 26f76f944359c974e91209218ca7423c, type: 2}
+  - {fileID: 11400000, guid: da3876f5fee8a6c4bbc8ed420c51abab, type: 2}
+  - {fileID: 11400000, guid: e0cef6b16b9054b4ab8e93bd2bde5eac, type: 2}
+  - {fileID: 11400000, guid: 2de608fbe1cc87d40ac6b6ab49e2f258, type: 2}
+  - {fileID: 11400000, guid: 9a0b0ad10781af84a8074085a45bbe05, type: 2}

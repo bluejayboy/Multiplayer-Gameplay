@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ade98f1e23afc704d94fb3c4351ca3b8, type: 3}
+  m_Name: Peanut Jar Gadget
+  m_EditorClassIdentifier: 
+  id: Peanut Jar
+  display: peanut jar
+  visibleLeftHand: 1
+  enableCrosshair: 1
+  slot: 2
+  drawTime: 0.5
+  pickup: {fileID: 4062561830879704425, guid: 4a41f15ee2bdbf444b748ad096f88a99, type: 3}
+  isFullAuto: 1
+  secondaryFire: 0
+  deploy: {fileID: 8300000, guid: 367dc171fb6138246b26a1e0b6a6821d, type: 3}
+  primaryFire: {fileID: 8300000, guid: 70e28ec365596de4f992c642ebe8e951, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 8300000, guid: 70e28ec365596de4f992c642ebe8e951, type: 3}
+  secondaryFireSound: {fileID: 0}
+  damage: 0
+  primaryFireRate: 5
+  secondaryFireRate: 50
+  impactRadius: 1
+  impactForce: 100
+  idlePose:
+    position: {x: 0.05, y: -0.4, z: 0}
+    rotation: {x: 0, y: -10, z: -10}
+    fovDivisor: 0
+  poseSpeed: 10
+  healTime: 0.5
+  healPose:
+    position: {x: -0.05, y: -0.55, z: -0.1}
+    rotation: {x: -23.5, y: -22.22, z: 24.3}
+    fovDivisor: 0

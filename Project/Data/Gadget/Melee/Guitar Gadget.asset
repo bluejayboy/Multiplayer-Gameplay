@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92fcbfcb62d64f84daf9f4a12871dd07, type: 3}
+  m_Name: Guitar Gadget
+  m_EditorClassIdentifier: 
+  MoveSpeedMultiplier: 1
+  id: Guitar
+  display: Guitar
+  visibleLeftHand: 0
+  enableCrosshair: 0
+  slot: 0
+  drawTime: 0.5
+  pickup: {fileID: 0}
+  isFullAuto: 0
+  secondaryFire: 1
+  deploy: {fileID: 0}
+  primaryFire: {fileID: 0}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 0}
+  secondaryFireSound: {fileID: 0}
+  damage: 0
+  primaryFireRate: 5
+  secondaryFireRate: 50
+  impactRadius: 1
+  impactForce: 100
+  idlePose:
+    position: {x: 0.2, y: -0.3, z: 0.2}
+    rotation: {x: -20, y: 0, z: 0}
+    fovDivisor: 1
+  poseSpeed: 10
+  KeyCodes: 76000000620000006e0000006d000000
+  Notes:
+  - {fileID: 8300000, guid: f4d0c722c9f5c09458a50443a9234e5d, type: 3}
+  - {fileID: 8300000, guid: 5e7d1086d68e6834eada11aa9f3aa002, type: 3}
+  - {fileID: 8300000, guid: 99801b2ef30d6b04e9110f97df862d7e, type: 3}
+  - {fileID: 8300000, guid: cd2f71765ace1ec448955432055b0704, type: 3}

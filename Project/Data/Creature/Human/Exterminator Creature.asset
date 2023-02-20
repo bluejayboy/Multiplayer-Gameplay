@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70cb7a722fdc7594bbfeea9338494227, type: 3}
+  m_Name: Exterminator Creature
+  m_EditorClassIdentifier: 
+  scale: {x: 1, y: 1, z: 1}
+  abilities: []
+  health: 200
+  lifetime: 20
+  allowInteract: 1
+  stand:
+    moveSpeed: 6
+    footstepRate: 25
+  crouch:
+    moveSpeed: 3
+    footstepRate: 35
+  defaultGadget: M16A1
+  grunts:
+  - {fileID: 8300000, guid: 863fe7a4f91256d4a9ae8baf6682e7a5, type: 3}
+  - {fileID: 8300000, guid: 07871d2fb48e69e48a402422daf68335, type: 3}
+  - {fileID: 8300000, guid: 3bf552fa9493f624aad94c67fa983609, type: 3}
+  screams:
+  - {fileID: 8300000, guid: 152cae9be4f3ec04a92ed20743493d34, type: 3}
+  gruntChance: 0.5
+  screamChance: 1
+  hats:
+  - {fileID: 1196861398498666, guid: 927dbaf78968c334ca14a460a494ec0a, type: 3}
+  scarves: []
+  vests:
+  - {fileID: 1110552947234252, guid: 3efef097ef94e8046b46b72064bc3b36, type: 3}
+  face: 
+  isFixedSkinColor: 1
+  head:
+    serializedVersion: 2
+    rgba: 4281545523
+  torso:
+    serializedVersion: 2
+    rgba: 4293980400
+  leftHand:
+    serializedVersion: 2
+    rgba: 4281545523
+  rightHand:
+    serializedVersion: 2
+    rgba: 4281545523
+  leftFoot:
+    serializedVersion: 2
+    rgba: 4281545523
+  rightFoot:
+    serializedVersion: 2
+    rgba: 4281545523

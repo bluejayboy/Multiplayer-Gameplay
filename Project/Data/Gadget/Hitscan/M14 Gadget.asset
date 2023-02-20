@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820dd049780cf64f8d2332b4488063e, type: 3}
+  m_Name: M14 Gadget
+  m_EditorClassIdentifier: 
+  id: M14
+  display: automatic sniper
+  visibleLeftHand: 0
+  enableCrosshair: 1
+  slot: 0
+  drawTime: 0.5
+  pickup: {fileID: 4283656140623310146, guid: ac87374f2ab565049bfd258f275b96f4, type: 3}
+  isFullAuto: 1
+  secondaryFire: 2
+  deploy: {fileID: 8300000, guid: 367dc171fb6138246b26a1e0b6a6821d, type: 3}
+  primaryFire: {fileID: 8300000, guid: e9ea7b43ae2cf114fb38988b4397bdc8, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 0}
+  secondaryFireSound: {fileID: 0}
+  damage: 60
+  primaryFireRate: 15
+  secondaryFireRate: 30
+  impactRadius: 1
+  impactForce: 15
+  idlePose:
+    position: {x: 0.04, y: -0.2, z: 0}
+    rotation: {x: -1, y: 0, z: 0}
+    fovDivisor: 1
+  poseSpeed: 10
+  hasInfiniteAmmo: 0
+  dryFire: {fileID: 8300000, guid: 51d148b6dc735c04db7b1b59c3ee13e6, type: 3}
+  magUnload: {fileID: 8300000, guid: 191cc46bb0a6b034cafc46dca18387fc, type: 3}
+  fragments: 1
+  range: 500
+  spread: 0.1
+  aimSpread: 0
+  spreadAddend: 0.01
+  spreadSubtrahend: 0.01
+  aimSensitivityDivisor: 4
+  slapDamage: 50
+  preSlapDelay: 0.2
+  postSlapDelay: 0.1
+  preSlap:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    speed: 0
+  postSlap:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    speed: 0
+  maxAmmo: 25
+  mag: {fileID: 54890872873350260, guid: 8cd7fe6ee7fe62e42945af830099a290, type: 3}
+  magForce: 200
+  aimPose:
+    position: {x: 0.04, y: -1, z: 0}
+    rotation: {x: -1, y: 0, z: 0}
+    fovDivisor: 3
+  recoilPitch: 4
+  recoilYaw: 2
+  reboundPitch: 4
+  reboundYaw: 2
+  reboundRoll: 4
+  reboundDepth: 0.5
+  kickSpeed: 400
+  idleKick:
+    position: {x: 0.04, y: -0.2, z: -0.4}
+    rotation: {x: -5, y: 0, z: 0}
+  bulletTracer: {fileID: 0}
+  bulletShell: {fileID: 54708876337023376, guid: 15bb2827560188c42b62e672e93f32ec,
+    type: 3}
+  bulletShellTorque: 100

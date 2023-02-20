@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dd36cdbbbc4bf7488c32119052b4d4d, type: 3}
+  m_Name: Pool Registry
+  m_EditorClassIdentifier: 
+  pools:
+  - amount: 100
+    prefab: {fileID: 1261453264743452, guid: 478827666c31e7e4099f4749c685bf46, type: 3}
+  - amount: 100
+    prefab: {fileID: 1826863136739910, guid: f4d5b33d4642ac0439ca9cfa21a5505c, type: 3}
+  - amount: 100
+    prefab: {fileID: 1623979245974710, guid: 25bb8fcdc397acf44a1c54b6134c57f6, type: 3}
+  - amount: 100
+    prefab: {fileID: 1623979245974710, guid: 15bb2827560188c42b62e672e93f32ec, type: 3}
+  - amount: 100
+    prefab: {fileID: 1623979245974710, guid: 9fe884ae79d60cc4491c6e911fa60558, type: 3}
+  - amount: 20
+    prefab: {fileID: 1228780184637316, guid: 93223f603e4f5c441ade0b4b7a892ec7, type: 3}
+  - amount: 20
+    prefab: {fileID: 1598049503530362, guid: 16af42a5b5d33de4d884140b9da0e233, type: 3}
+  - amount: 20
+    prefab: {fileID: 1359134948235206, guid: c633c13ba80601848a2dd6787b2ca3b4, type: 3}
+  - amount: 20
+    prefab: {fileID: 1543410817965928, guid: a23a39f5902d24c42b1ede75d633d799, type: 3}
+  - amount: 20
+    prefab: {fileID: 1611865124326226, guid: e8c3272ed38acce46a7587eea71936be, type: 3}
+  - amount: 20
+    prefab: {fileID: 1865585058726158, guid: 4f9da3844a25571489c831a0c98d3d33, type: 3}
+  - amount: 20
+    prefab: {fileID: 1862791892409004, guid: 8cd7fe6ee7fe62e42945af830099a290, type: 3}
+  - amount: 20
+    prefab: {fileID: 1611865124326226, guid: 8ef6310e798642049a220ce12b357c38, type: 3}
+  - amount: 20
+    prefab: {fileID: 1148203681385020, guid: b34aaf2a8c8ae324ab743b6008e217e0, type: 3}
+  - amount: 20
+    prefab: {fileID: 1987716168233312, guid: 58cc21f5ae5c693448ce0b9a8c9c0163, type: 3}
+  - amount: 20
+    prefab: {fileID: 1510599419800138, guid: 92459e21e13f7ac4ca537f657eb49516, type: 3}
+  - amount: 20
+    prefab: {fileID: 1200234933059572, guid: 0d5afdcb22688944f82b3b1d4b45d937, type: 3}
+  - amount: 20
+    prefab: {fileID: 1997094104363124, guid: ddea37da2f1f72c409f91b8c014cba0d, type: 3}
+  - amount: 20
+    prefab: {fileID: 1263876676542220, guid: f005fbe19431c604d8b088a95fe87e6a, type: 3}
+  - amount: 20
+    prefab: {fileID: 1072257395978854, guid: a80954ca3fa6d4c43ab03dab0bfe1ebe, type: 3}
+  - amount: 20
+    prefab: {fileID: 1574165110182124, guid: 97b4e10a2450d634e94f9b7d542613b2, type: 3}
+  - amount: 20
+    prefab: {fileID: 1198602162431228, guid: 709136bac6dcb6e47b87b3925952f793, type: 3}
+  - amount: 20
+    prefab: {fileID: 1285535525791948, guid: 10e7948a3f7cd8b46a7012d6a0948a21, type: 3}
+  - amount: 20
+    prefab: {fileID: 1304341571106738, guid: 2276efcba5f35234a86bb1a651655055, type: 3}
+  - amount: 20
+    prefab: {fileID: 1093742557467934, guid: 9a2c11992e37d014ebc7b56c6daf0160, type: 3}
+  - amount: 20
+    prefab: {fileID: 1231047549657864, guid: 88ecf138eeef86a47a1e5345bed8ea84, type: 3}
+  - amount: 20
+    prefab: {fileID: 1851692492660900, guid: 0aaa68197014c884aaa43dfe6cc84b3d, type: 3}
+  - amount: 20
+    prefab: {fileID: 1360138086597736, guid: 53872038bd79cf7408158a4e61d8353e, type: 3}
+  - amount: 20
+    prefab: {fileID: 1826863136739910, guid: 95b08bdca73d58a4e8c49379b24ccb97, type: 3}
+  - amount: 20
+    prefab: {fileID: 1826863136739910, guid: 51c3143239ec90547826ce99a524cff1, type: 3}
+  - amount: 30
+    prefab: {fileID: 1140944554308510, guid: 33a3f1faa5810b04fb4fb5665c1b9e2a, type: 3}

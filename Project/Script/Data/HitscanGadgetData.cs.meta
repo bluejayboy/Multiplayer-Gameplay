@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d820dd049780cf64f8d2332b4488063e
+timeCreated: 1513675741
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deploy: {fileID: 8300000, guid: 367dc171fb6138246b26a1e0b6a6821d, type: 3}
+  - fire: {instanceID: 0}
+  - dryFire: {fileID: 8300000, guid: 51d148b6dc735c04db7b1b59c3ee13e6, type: 3}
+  - bulletImpact: {fileID: 114476951044777728, guid: f4d5b33d4642ac0439ca9cfa21a5505c,
+      type: 2}
+  - reload: {instanceID: 0}
+  - bulletTracer: {fileID: 1261453264743452, guid: 478827666c31e7e4099f4749c685bf46,
+      type: 2}
+  - bulletShell: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

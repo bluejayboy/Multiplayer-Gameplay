@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d820dd049780cf64f8d2332b4488063e, type: 3}
+  m_Name: P90 Gadget
+  m_EditorClassIdentifier: 
+  id: P90
+  display: pee90
+  visibleLeftHand: 0
+  enableCrosshair: 1
+  slot: 0
+  drawTime: 0.5
+  pickup: {fileID: 1260337340974870154, guid: 14e851a6905d55942858545fcc005e65, type: 3}
+  isFullAuto: 1
+  secondaryFire: 1
+  deploy: {fileID: 8300000, guid: 367dc171fb6138246b26a1e0b6a6821d, type: 3}
+  primaryFire: {fileID: 8300000, guid: c73414625c050ca44aa63ee50fce7047, type: 3}
+  primaryHold: {fileID: 0}
+  primaryUp: {fileID: 0}
+  secondaryFireSound: {fileID: 8300000, guid: e96410e0e11175143b1e47fd99901c21, type: 3}
+  damage: 20
+  primaryFireRate: 5
+  secondaryFireRate: 30
+  impactRadius: 1
+  impactForce: 6
+  idlePose:
+    position: {x: 0.1, y: -0.25, z: 0.2}
+    rotation: {x: -1, y: 0, z: 0}
+    fovDivisor: 1
+  poseSpeed: 10
+  hasInfiniteAmmo: 0
+  dryFire: {fileID: 8300000, guid: 51d148b6dc735c04db7b1b59c3ee13e6, type: 3}
+  magUnload: {fileID: 8300000, guid: 191cc46bb0a6b034cafc46dca18387fc, type: 3}
+  fragments: 1
+  range: 500
+  spread: 0.1
+  aimSpread: 0
+  spreadAddend: 0.01
+  spreadSubtrahend: 0.01
+  aimSensitivityDivisor: 0
+  slapDamage: 70
+  preSlapDelay: 0.2
+  postSlapDelay: 0.1
+  preSlap:
+    position: {x: 0.1, y: 0.8, z: 0.2}
+    rotation: {x: -40, y: 0, z: -20}
+    speed: 5
+  postSlap:
+    position: {x: -0.2, y: -1.2, z: 0.4}
+    rotation: {x: -100, y: 0, z: 0}
+    speed: 15
+  maxAmmo: 60
+  mag: {fileID: 54728361590948308, guid: 88ecf138eeef86a47a1e5345bed8ea84, type: 3}
+  magForce: 200
+  aimPose:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    fovDivisor: 1
+  recoilPitch: 1
+  recoilYaw: 2
+  reboundPitch: 1
+  reboundYaw: 2
+  reboundRoll: 2
+  reboundDepth: 0.2
+  kickSpeed: 100
+  idleKick:
+    position: {x: 0.1, y: -0.25, z: -0.1}
+    rotation: {x: -3, y: 0, z: 0}
+  bulletTracer: {fileID: 1261453264743452, guid: 478827666c31e7e4099f4749c685bf46,
+    type: 3}
+  bulletShell: {fileID: 54708876337023376, guid: 25bb8fcdc397acf44a1c54b6134c57f6,
+    type: 3}
+  bulletShellTorque: 100

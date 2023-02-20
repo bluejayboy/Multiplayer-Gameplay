@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 44e856412b468c547bc7a9879e969324
+timeCreated: 1522070426
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House.096
+    100004: House.098
+    100006: House.099
+    100008: House.101
+    100010: House.102
+    100012: House.103
+    100014: House.104
+    100016: House.105
+    100018: House.106
+    100020: House.107
+    100022: House.108
+    100024: House.109
+    100026: House.110
+    100028: House.111
+    100030: House.112
+    100032: House.113
+    100034: House.114
+    100036: House.115
+    100038: House.116
+    100040: House.117
+    100042: House.118
+    100044: School Bus.000
+    100046: School Bus.002
+    400000: //RootNode
+    400002: House.096
+    400004: House.098
+    400006: House.099
+    400008: House.101
+    400010: House.102
+    400012: House.103
+    400014: House.104
+    400016: House.105
+    400018: House.106
+    400020: House.107
+    400022: House.108
+    400024: House.109
+    400026: House.110
+    400028: House.111
+    400030: House.112
+    400032: House.113
+    400034: House.114
+    400036: House.115
+    400038: House.116
+    400040: House.117
+    400042: House.118
+    400044: School Bus.000
+    400046: School Bus.002
+    2100000: Rubber.005
+    2100002: Chrome.011
+    2100004: Bathroom.009
+    2100006: Gray.013
+    2100008: Seat.002
+    2100010: Light.002
+    2100012: Yellow.002
+    2100014: Cola.007
+    2100016: Wood.013
+    2100018: Chrome.012
+    2100020: Sand.016
+    2300000: House.096
+    2300002: House.098
+    2300004: House.099
+    2300006: House.101
+    2300008: House.102
+    2300010: House.103
+    2300012: House.104
+    2300014: House.105
+    2300016: House.106
+    2300018: House.107
+    2300020: House.108
+    2300022: House.109
+    2300024: House.110
+    2300026: House.111
+    2300028: House.112
+    2300030: House.113
+    2300032: House.114
+    2300034: House.115
+    2300036: House.116
+    2300038: House.117
+    2300040: House.118
+    2300042: School Bus.000
+    2300044: School Bus.002
+    3300000: House.096
+    3300002: House.098
+    3300004: House.099
+    3300006: House.101
+    3300008: House.102
+    3300010: House.103
+    3300012: House.104
+    3300014: House.105
+    3300016: House.106
+    3300018: House.107
+    3300020: House.108
+    3300022: House.109
+    3300024: House.110
+    3300026: House.111
+    3300028: House.112
+    3300030: House.113
+    3300032: House.114
+    3300034: House.115
+    3300036: House.116
+    3300038: House.117
+    3300040: House.118
+    3300042: School Bus.000
+    3300044: School Bus.002
+    4300000: School Bus.002
+    4300002: House.118
+    4300004: House.117
+    4300006: House.116
+    4300008: House.115
+    4300010: School Bus.000
+    4300012: House.114
+    4300014: House.113
+    4300016: House.112
+    4300018: House.111
+    4300020: House.110
+    4300022: House.109
+    4300024: House.108
+    4300026: House.107
+    4300028: House.106
+    4300030: House.105
+    4300032: House.104
+    4300034: House.103
+    4300036: House.102
+    4300038: House.101
+    4300040: House.099
+    4300042: House.098
+    4300044: House.096
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

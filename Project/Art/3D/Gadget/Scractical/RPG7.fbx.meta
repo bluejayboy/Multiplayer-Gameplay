@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: ee414e3bab09bad45bfbe34487e876a3
+timeCreated: 1556546002
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ArmsArmature
+    100002: Cylinder.000
+    100004: Cylinder.001
+    100006: Cylinder.002
+    100008: Cylinder.005
+    100010: Cylinder.009
+    100012: Hands
+    100014: LeftBicep
+    100016: LeftForearm
+    100018: LeftForearm_end
+    100020: LeftHand
+    100022: LeftMiddle
+    100024: LeftMiddle.001
+    100026: LeftMiddle.001_end
+    100028: LeftPinky
+    100030: LeftPinky.001
+    100032: LeftPinky.001_end
+    100034: LeftPointer
+    100036: LeftPointer.001
+    100038: LeftPointer.001_end
+    100040: LeftThumb
+    100042: LeftThumb.001
+    100044: LeftThumb.001_end
+    100046: LeftWristHandle
+    100048: RightBicep
+    100050: RightForearm
+    100052: RightForearm_end
+    100054: RightHand
+    100056: RightMiddle
+    100058: RightMiddle.001
+    100060: RightMiddle.001_end
+    100062: RightPinky
+    100064: RightPinky.001
+    100066: RightPinky.001_end
+    100068: RightPointer
+    100070: RightPointer.001
+    100072: RightPointer.001_end
+    100074: RightThumb
+    100076: RightThumb.001
+    100078: RightThumb.001_end
+    100080: RightWristHandle
+    100082: //RootNode
+    400000: ArmsArmature
+    400002: Cylinder.000
+    400004: Cylinder.001
+    400006: Cylinder.002
+    400008: Cylinder.005
+    400010: Cylinder.009
+    400012: Hands
+    400014: LeftBicep
+    400016: LeftForearm
+    400018: LeftForearm_end
+    400020: LeftHand
+    400022: LeftMiddle
+    400024: LeftMiddle.001
+    400026: LeftMiddle.001_end
+    400028: LeftPinky
+    400030: LeftPinky.001
+    400032: LeftPinky.001_end
+    400034: LeftPointer
+    400036: LeftPointer.001
+    400038: LeftPointer.001_end
+    400040: LeftThumb
+    400042: LeftThumb.001
+    400044: LeftThumb.001_end
+    400046: LeftWristHandle
+    400048: RightBicep
+    400050: RightForearm
+    400052: RightForearm_end
+    400054: RightHand
+    400056: RightMiddle
+    400058: RightMiddle.001
+    400060: RightMiddle.001_end
+    400062: RightPinky
+    400064: RightPinky.001
+    400066: RightPinky.001_end
+    400068: RightPointer
+    400070: RightPointer.001
+    400072: RightPointer.001_end
+    400074: RightThumb
+    400076: RightThumb.001
+    400078: RightThumb.001_end
+    400080: RightWristHandle
+    400082: //RootNode
+    2300000: Cylinder.000
+    2300002: Cylinder.001
+    2300004: Cylinder.002
+    2300006: Cylinder.005
+    2300008: Cylinder.009
+    3300000: Cylinder.000
+    3300002: Cylinder.001
+    3300004: Cylinder.002
+    3300006: Cylinder.005
+    3300008: Cylinder.009
+    4300000: Hands
+    4300002: Cylinder.000
+    4300004: Cylinder.001
+    4300006: Cylinder.002
+    4300008: Cylinder.005
+    4300010: Cylinder.009
+    7400000: ArmsArmature|ArmsArmatureAction
+    7400002: ArmsArmature|Cylinder.000Action
+    7400004: ArmsArmature|Cylinder.001Action
+    7400006: ArmsArmature|Cylinder.002Action
+    7400008: ArmsArmature|Cylinder.005Action
+    7400010: ArmsArmature|Cylinder.009Action
+    7400012: ArmsArmature|HandsAction
+    7400014: Cylinder.000|Cylinder.000Action
+    7400016: Cylinder.000|Cylinder.001Action
+    7400018: Cylinder.000|Cylinder.002Action
+    7400020: Cylinder.000|Cylinder.005Action
+    7400022: Cylinder.000|Cylinder.009Action
+    7400024: Cylinder.000|HandsAction
+    7400026: Cylinder.001|Cylinder.000Action
+    7400028: Cylinder.001|Cylinder.001Action
+    7400030: Cylinder.001|Cylinder.002Action
+    7400032: Cylinder.001|Cylinder.005Action
+    7400034: Cylinder.001|Cylinder.009Action
+    7400036: Cylinder.001|HandsAction
+    7400038: Cylinder.002|Cylinder.000Action
+    7400040: Cylinder.002|Cylinder.001Action
+    7400042: Cylinder.002|Cylinder.002Action
+    7400044: Cylinder.002|Cylinder.005Action
+    7400046: Cylinder.002|Cylinder.009Action
+    7400048: Cylinder.002|HandsAction
+    7400050: Cylinder.005|Cylinder.000Action
+    7400052: Cylinder.005|Cylinder.001Action
+    7400054: Cylinder.005|Cylinder.002Action
+    7400056: Cylinder.005|Cylinder.005Action
+    7400058: Cylinder.005|Cylinder.009Action
+    7400060: Cylinder.005|HandsAction
+    7400062: Cylinder.009|Cylinder.000Action
+    7400064: Cylinder.009|Cylinder.001Action
+    7400066: Cylinder.009|Cylinder.002Action
+    7400068: Cylinder.009|Cylinder.005Action
+    7400070: Cylinder.009|Cylinder.009Action
+    7400072: Cylinder.009|HandsAction
+    9500000: //RootNode
+    13700000: Hands
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

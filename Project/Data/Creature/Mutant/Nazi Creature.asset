@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70cb7a722fdc7594bbfeea9338494227, type: 3}
+  m_Name: Nazi Creature
+  m_EditorClassIdentifier: 
+  scale: {x: 1, y: 1, z: 1}
+  abilities:
+  - Nazi
+  health: 100
+  lifetime: 20
+  allowInteract: 0
+  stand:
+    moveSpeed: 5
+    footstepRate: 25
+  crouch:
+    moveSpeed: 2.5
+    footstepRate: 35
+  defaultGadget: Mutant Luger
+  grunts:
+  - {fileID: 8300000, guid: c245aaad80605bd44a59bda858d76821, type: 3}
+  - {fileID: 8300000, guid: f7380e0fa4229304cab1a6c03388de2d, type: 3}
+  - {fileID: 8300000, guid: b99a26d75ca4c9b428108cad2cc35ed3, type: 3}
+  screams:
+  - {fileID: 8300000, guid: a1d0c4bb30ad5354bb9a5cd426d8dfa1, type: 3}
+  - {fileID: 8300000, guid: 6736a8e719b98ed44a7e8b0eba5a9b02, type: 3}
+  gruntChance: 0.5
+  screamChance: 1
+  hats:
+  - {fileID: 1418445765262132, guid: 7b573fe26c09c1f4cb1306bdac126770, type: 3}
+  scarves:
+  - {fileID: 1493051313006940, guid: ae9a1a26a83160d498e5da515e5afab1, type: 3}
+  vests: []
+  face: 
+  isFixedSkinColor: 1
+  head:
+    serializedVersion: 2
+    rgba: 4285972875
+  torso:
+    serializedVersion: 2
+    rgba: 4281545523
+  leftHand:
+    serializedVersion: 2
+    rgba: 4285972875
+  rightHand:
+    serializedVersion: 2
+    rgba: 4285972875
+  leftFoot:
+    serializedVersion: 2
+    rgba: 4281545523
+  rightFoot:
+    serializedVersion: 2
+    rgba: 4281545523
